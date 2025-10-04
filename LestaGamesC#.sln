@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LestaGamesC#", "LestaGamesC#\LestaGamesC#.csproj", "{1A2217E0-7507-4ABF-AEB3-968F5E54CDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2217E0-7507-4ABF-AEB3-968F5E54CDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2217E0-7507-4ABF-AEB3-968F5E54CDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2217E0-7507-4ABF-AEB3-968F5E54CDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2217E0-7507-4ABF-AEB3-968F5E54CDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E39A6DB-A168-4BC3-9075-0EE338C6566F}
+	EndGlobalSection
+EndGlobal
